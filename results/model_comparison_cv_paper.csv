@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Random Forest,0.7539,0.6754,0.5745,0.6183
+Logistic Regression,0.7514,0.6238,0.7283,0.6704
+Naive Bayes,0.7435,0.6407,0.5967,0.6152
+KNN,0.7317,0.6364,0.5523,0.5881
+SVM,0.7004,0.5756,0.537,0.5535
+Decision Tree,0.6667,0.5238,0.5523,0.5344
